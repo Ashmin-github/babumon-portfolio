@@ -1,0 +1,6 @@
+{
+  "name": "Babumon Anakottoor Film Portfolio",
+  "description": "Premium cinematic personal portfolio website for filmmaker Babumon Anakottoor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
