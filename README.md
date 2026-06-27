@@ -1,20 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Babumon Anakottoor Portfolio Assets
 
-# Run and deploy your AI Studio app
+To personalize the website with your actual photos:
 
-This contains everything you need to run your app locally.
+1. **Profile Picture**: Rename your headshot photograph to **`babumon_profile.png`** or **`babumon_profile.jpg`** / **`babumon_profile.jpeg`** and place it in this folder (`public/assets/`). This will immediately display your face inside the elegant top-left header circular avatar next to your name.
+2. **On-Set Directing Picture**: Rename your landscape/on-set photo to **`babumon_onset.png`** or **`babumon_onset.jpg`** / **`babumon_onset.jpeg`** and place it in this folder (`public/assets/`). This will immediately display your photo directing on set, beautifully blended and merged into the dark cinematic background of the hero section!
 
-View your app in AI Studio: https://ai.studio/apps/d8537f4b-7f0d-40cd-ba45-c5ec8ec7cf90
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*Note: Both high-quality PNG and JPEG formats are fully and automatically supported. Drop your file in here, name it correctly, and the website will automatically load it with elegant filters and edge-blending!*
